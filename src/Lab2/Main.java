@@ -29,39 +29,29 @@ public class Main {
 
 
         public static int sum(int x, int y){
-        int sum = x+y;
-        return sum;
+            return x+y;
     }
 
         public static float beta (float x, float y){
-        float beta = x/y;
-        return beta;
+            return x/y;
     }
         public static int alpha (int x, int y, int z){
-        int alpha = x+(y*z);
-        return alpha;
+            return x+ y*z;
         }
 
         public static float gamma (float x, float y, float z){
-        float gamma = (x+y) %z;
-        return gamma;
+            return (x+y) %z;
     }
        public static float delta (float x, float y, float z, float v){
-        float delta = x+((y*z)/v);
-        return delta;
+           return x+((y*z)/v);
        }
 
        public static float omega (float a, float b, float c, float d, float e){
-        float omega = (a+((b/c)*d)-e) %c;
-        return omega;
+           return (a+(b/c *d)-e) %c;
        }
 
        public static void printName(String name){
            System.out.println(name);
        }
-
-
-
-
-
+       
 }
