@@ -5,5 +5,4 @@ public class Food {
     float price ;
     String quantity;
     boolean inStock;
-
 }

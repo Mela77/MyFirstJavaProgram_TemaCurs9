@@ -4,5 +4,4 @@ public class AnimalRescuers {
 
     String name ;
     float amountOfMoneyAvailable ;
-
 }
