@@ -2,6 +2,8 @@ package Lab4.Lab3.Calculator;
 
 public class LogicalOp {
 
+    //Homework Lab3.
+
     public int checkBiggerNumber(int first, int second) {
         if (first > second) {
             return first;
@@ -284,6 +286,9 @@ public class LogicalOp {
             System.out.println(" ");
         }
     }
+
+    // Homework Lab4. -  Java While Loop
+    
 
 
 
