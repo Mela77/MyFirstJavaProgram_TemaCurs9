@@ -200,7 +200,31 @@ public class Main {
         op.ex9(0,0);
 
 //Homework Lab4. -  Java While Loop
-        
+        //Ex.1:
+        op.ex01(7);
+        //Ex.2:
+        op.ex02(7);
+        //Ex.3:
+        op.ex03(7,24);
+        //Ex.4:
+        op.ex04(15,10);
+        //Ex.5:
+        op.ex05(0);
+        //Ex.6:
+        op.ex06(0);
+        //Ex.7:
+        op.ex07(111,8899);
+        //Ex.8:
+        System.out.println(op.ex08(0,100));
+        //Ex.9:
+        op.ex09(20);
+        //Ex.10:
+        op.ex010(110);
+
+
+
+
+
 
 
 
